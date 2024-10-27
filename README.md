@@ -11,14 +11,14 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/shivraj)
 
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **shivraj.exe**
 
 - ⚡ Fun fact: **I love exploring tech solutions and experimenting with server setups**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/your_channel" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
-<a href="https://discord.gg/your_discord" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" /></a>
+<a href="https://www.youtube.com/c/Shivrajmc" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+<a href="https://discord.gg/stairnodes" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
